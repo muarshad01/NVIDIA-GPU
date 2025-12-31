@@ -1,5 +1,5 @@
 # NVIDIA-GPU
-
+* https://www.nvidia.com/en-us/training/self-paced-courses/
 * https://github.com/NVIDIA/accelerated-computing-hub
 * https://rapids.ai/
 * https://github.com/NVIDIA/bionemo-framework
